@@ -1,0 +1,33 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Lora|Roboto");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	background-image: url("../images/bouchons.jpg");
+	font-family: cursive;
+	text-align: center;
+	color:  black;
+	
+
+}
+
+
+h1, h2, h3, h4 {
+	font-family: cursive sans-serif;
+	color: Black;
+	font: bold;
+	text-align: center;
+	letter-spacing: 10px;
+
+}
+
+div{
+	border-radius: 15px;
+	box-shadow:  5px 15px 30px rgba(55, 55, 55, 5000); 
+	text-align: center;
+}
